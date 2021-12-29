@@ -1,4 +1,11 @@
 # Hi there,  I'm UMAIR S. 👋
+
+## Watch 👀 My Contribution Graph 📊 Eaten by Snake 🐍
+<p align="center">
+  <a href="https://github.com/umairshabbir-83">
+    <img src="https://github.com/umairshabbir-83/umairshabbir-83/blob/GIF/github-contribution-grid-snake.svg" />
+  </a>
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=umairshabbir-83" alt="UMAIR SHABBIR" /> </p>
 
 ## I'm a Developer 👨‍💻
@@ -25,7 +32,11 @@
 </p>
 
 ## Contribution Graph 📊
-[![UMAIR SHABBIR's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=umairshabbir-83&theme=github)](https://github.com/umairshabbir-83)
+<p align="center">
+  <a href="https://github.com/umairshabbir-83">
+    <img src="https://activity-graph.herokuapp.com/graph?username=umairshabbir-83&theme=github" />
+  </a>
+</p>
 
 ## 🔗 Connect With Me
 <p align="center">
