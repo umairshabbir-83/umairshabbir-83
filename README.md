@@ -22,12 +22,19 @@
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umairshabbir-83&theme=dark" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/umairshabbir-83">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umairshabbir-83&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umairshabbir-83&theme=github_dark" />
+  </a>
+</p>
 
 ## GitHub Analytics 📈
 <p align="center">
   <a href="https://github.com/umairshabbir-83">
     <img src="https://github-readme-stats.vercel.app/api?username=umairshabbir-83&theme=dark" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=umairshabbir-83&theme=dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umairshabbir-83&theme=github_dark" />
   </a>
 </p>
 
