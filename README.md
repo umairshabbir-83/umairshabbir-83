@@ -24,8 +24,8 @@
 </p>
 <p align="center">
   <a href="https://github.com/umairshabbir-83">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umairshabbir-83&theme=github_dark" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umairshabbir-83&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umairshabbir-83&theme=github_dark" />
   </a>
 </p>
 
