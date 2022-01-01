@@ -147,6 +147,7 @@
 ## 🔗 Connect With Me
 
 <p align="center">
+  <a href="https://dev.to/umairshabbir_83"><img src="https://img.shields.io/badge/-UMAIR SHABBIR-000000?logo=DEV.TO&logoColor=white" /></a>
   <a href="https://facebook.com/umairshabbir.83"><img src="https://img.shields.io/badge/-@umairshabbir.83-3B5998?logo=Facebook&logoColor=white" /></a>
   <a href="https://instagram.com/umairshabbir.83"><img src="https://img.shields.io/badge/-@umairshabbir.83-DD2A7B?logo=Instagram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/umairshabbir-83"><img src="https://img.shields.io/badge/-UMAIR SHABBIR-0077B5?logo=Linkedin&logoColor=white" /></a>
