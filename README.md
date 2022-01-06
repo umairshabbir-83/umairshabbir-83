@@ -13,6 +13,34 @@
 - ⚡ Fun fact: Shh! 🤫
 ```
 
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://dev.to/umairshabbir_83"><img src="https://img.shields.io/badge/-UMAIR SHABBIR-040404?logo=DEV.TO&logoColor=white" /></a>
+  <a href="https://facebook.com/umairshabbir.83"><img src="https://img.shields.io/badge/-@umairshabbir.83-1B7BF3?logo=Facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/umairshabbir.83"><img src="https://img.shields.io/badge/-@umairshabbir.83-D2377A?logo=Instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/umairshabbir-83"><img src="https://img.shields.io/badge/-UMAIR SHABBIR-0473B3?logo=LinkedIn&logoColor=white" /></a>
+  <a href="https://twitter.com/umairshabbir_83"><img src="https://img.shields.io/badge/-@umairshabbir_83-1E9BF1?logo=Twitter&logoColor=white" /></a>
+</p>
+
+## Contribution Graph 📊
+
+<p align="center">
+  <a href="https://github.com/umairshabbir-83"><img src="https://activity-graph.herokuapp.com/graph?username=umairshabbir-83&theme=github" /></a>
+</p>
+
+## GitHub Analytics 📈
+
+<p align="center">
+  <a href="https://github.com/umairshabbir-83"><img src="https://github-readme-streak-stats.herokuapp.com/?user=umairshabbir-83&theme=dark" /></a>
+</p>
+
+## GitHub Profile Trophies 🏆
+
+<p align="center">
+  <a href="https://github.com/umairshabbir-83"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" /></a>
+</p>
+
 ## Languages and Tools ⚙
 
 <p align="center">
@@ -38,30 +66,8 @@
   <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-Visual Studio Code-2082C4?logo=VisualStudioCode&logoColor=white" /></a>
 </p>
 
-## GitHub Analytics 📈
-
-<p align="center">
-  <a href="https://github.com/umairshabbir-83"><img src="https://github-readme-streak-stats.herokuapp.com/?user=umairshabbir-83&theme=dark" /></a>
-</p>
-
-## Contribution Graph 📊
-
-<p align="center">
-  <a href="https://github.com/umairshabbir-83"><img src="https://activity-graph.herokuapp.com/graph?username=umairshabbir-83&theme=github" /></a>
-</p>
-
 ## Watch 👀 My Contribution Graph 📊 Eaten by Snake 🐍
 
 <p align="center">
   <a href="https://github.com/umairshabbir-83"><img src="https://github.com/umairshabbir-83/umairshabbir-83/blob/GIF/github-contribution-grid-snake.svg" /></a>
-</p>
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://dev.to/umairshabbir_83"><img src="https://img.shields.io/badge/-UMAIR SHABBIR-040404?logo=DEV.TO&logoColor=white" /></a>
-  <a href="https://facebook.com/umairshabbir.83"><img src="https://img.shields.io/badge/-@umairshabbir.83-1B7BF3?logo=Facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/umairshabbir.83"><img src="https://img.shields.io/badge/-@umairshabbir.83-D2377A?logo=Instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/umairshabbir-83"><img src="https://img.shields.io/badge/-UMAIR SHABBIR-0473B3?logo=LinkedIn&logoColor=white" /></a>
-  <a href="https://twitter.com/umairshabbir_83"><img src="https://img.shields.io/badge/-@umairshabbir_83-1E9BF1?logo=Twitter&logoColor=white" /></a>
 </p>
