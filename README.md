@@ -32,6 +32,7 @@
 ## GitHub Analytics 📈
 
 <p align="center">
+  <a href="https://github.com/umairshabbir-83"><img src="https://github-readme-stats.vercel.app/api?username=umairshabbir-83&theme=dark" /></a>
   <a href="https://github.com/umairshabbir-83"><img src="https://github-readme-streak-stats.herokuapp.com/?user=umairshabbir-83&theme=dark" /></a>
 </p>
 
