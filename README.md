@@ -50,7 +50,7 @@
   <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-.NET Framework-532CD3?logo=.NET&logoColor=white" /></a>
   <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-Android Studio-3DDB85?logo=AndroidStudio&logoColor=white" /></a>
   <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-CSharp-823298?logo=CSharp&logoColor=white" /></a>
-  <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-C++-044D8D?logo=C++&logoColor=white" /></a>
+  <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-C++-044D8D?logo=C%2B%2B&logoColor=white" /></a>
   <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-CSS3-2652E7?logo=CSS3&logoColor=white" /></a>
   <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-Git-F25334?logo=Git&logoColor=white" /></a>
   <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-HTML5-E75327?logo=HTML5&logoColor=white" /></a>
