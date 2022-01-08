@@ -38,7 +38,7 @@
 ## GitHub Profile Trophies 🏆
 
 <p align="center">
-  <a href="https://github.com/umairshabbir-83"><img src="https://github-profile-trophy.vercel.app/?username=umairshabbir-83" /></a>
+  <a href="https://github.com/umairshabbir-83"><img src="https://github-profile-trophy.vercel.app/?username=umairshabbir-83&row=4&column=4&no-bg=true" /></a>
 </p>
 
 ## Languages and Tools ⚙
