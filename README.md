@@ -6,12 +6,9 @@
 
 ## I'm a Developer 👨‍💻
 
-```
-- 🔭 I’m currently a Student.
-- 🌱 I’m currently learning about Android Development using Kotlin and Web Development using PHP/Laravel.
-- 😄 Pronouns: He/Him ♂
-- ⚡ Fun fact: Shh! 🤫
-```
+<p align="center">
+  <a href="https://github.com/umairshabbir-83"><img src="https://readme-typing-svg.herokuapp.com?font=Andada+Pro&color=%23FFFFF7&size=18&center=true&vCenter=true&width=500&lines=%F0%9F%94%AD+Currently+a+Student.;%F0%9F%8C%B1+Currently+Learning+about+Android+Development.;%F0%9F%8C%B1+Currently+Learning+about+Web+Development.;%F0%9F%98%84+Pronouns%3A+He%2FHim+%E2%99%82;%E2%9A%A1+Fun+fact%3A+Shh!+%F0%9F%A4%AB" /></a>
+</p>
 
 ## 🔗 Connect With Me
 
