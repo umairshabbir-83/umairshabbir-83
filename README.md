@@ -7,7 +7,7 @@
 ## I'm a Developer 👨‍💻
 
 <p align="center">
-  <a href="https://github.com/umairshabbir-83"><img src="https://readme-typing-svg.herokuapp.com?font=Auto&color=%23C0C0C0&size=16&center=true&vCenter=true&width=500&lines=%F0%9F%94%AD+Currently+a+Student.;%F0%9F%8C%B1+Currently+Learning+about+Android+Development.;%F0%9F%8C%B1+Currently+Learning+about+Web+Development.;%F0%9F%98%84+Pronouns%3A+He%2FHim+%E2%99%82;%E2%9A%A1+Fun+fact%3A+Shh!+%F0%9F%A4%AB" /></a>
+  <a href="https://github.com/umairshabbir-83"><img src="https://readme-typing-svg.herokuapp.com?font=Auto&color=%23B0C4DE&size=16&center=true&vCenter=true&width=500&lines=%F0%9F%94%AD+Currently+a+Student.;%F0%9F%8C%B1+Currently+Learning+about+Android+Development.;%F0%9F%8C%B1+Currently+Learning+about+Web+Development.;%F0%9F%98%84+Pronouns%3A+He%2FHim+%E2%99%82;%E2%9A%A1+Fun+fact%3A+Shh!+%F0%9F%A4%AB" /></a>
 </p>
 
 ## 🔗 Connect With Me
