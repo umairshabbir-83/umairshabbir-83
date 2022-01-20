@@ -7,7 +7,7 @@
 ## I'm a Developer 👨‍💻
 
 <p align="center">
-  <a href="https://github.com/umairshabbir-83"><img src="https://readme-typing-svg.herokuapp.com?font=Auto&color=%23B0C4DE&size=16&center=true&vCenter=true&width=500&lines=%F0%9F%94%AD+Currently+a+Student.;%F0%9F%8C%B1+Currently+Learning+about+Android+Development.;%F0%9F%8C%B1+Currently+Learning+about+Web+Development.;%F0%9F%98%84+Pronouns%3A+He%2FHim+%E2%99%82;%E2%9A%A1+Fun+fact%3A+Shh!+%F0%9F%A4%AB" /></a>
+  <a href="https://github.com/umairshabbir-83"><img src="https://readme-typing-svg.herokuapp.com?font=Auto&color=%23C9D1D9&size=16&center=true&vCenter=true&width=500&lines=%F0%9F%94%AD+Currently+a+Student.;%F0%9F%8C%B1+Currently+Learning+about+Android+Development.;%F0%9F%8C%B1+Currently+Learning+about+Web+Development.;%F0%9F%98%84+Pronouns%3A+He%2FHim+%E2%99%82;%E2%9A%A1+Fun+fact%3A+Shh!+%F0%9F%A4%AB" /></a>
 </p>
 
 ## 🔗 Connect With Me
@@ -50,6 +50,8 @@
   <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-CSharp-823298?logo=CSharp&logoColor=white" /></a>
   <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-C++-044D8D?logo=C%2B%2B&logoColor=white" /></a>
   <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-CSS3-2652E7?logo=CSS3&logoColor=white" /></a>
+  <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-Dart-39C0F8?logo=Dart&logoColor=white" /></a>
+  <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-Flutter-57C6F7?logo=Flutter&logoColor=white" /></a>
   <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-Git-F25334?logo=Git&logoColor=white" /></a>
   <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-HTML5-E75327?logo=HTML5&logoColor=white" /></a>
   <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-Jupyter-F37425?logo=Jupyter&logoColor=white" /></a>
