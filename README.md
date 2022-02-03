@@ -7,7 +7,7 @@
 ## I'm a Developer 👨‍💻
 
 <p align="center">
-  <a href="https://github.com/umairshabbir-83"><img src="https://readme-typing-svg.herokuapp.com?font=Auto&color=%23C9D1D9&size=16&center=true&vCenter=true&width=500&lines=%F0%9F%94%AD+Currently+a+Student.;%F0%9F%8C%B1+Currently+Learning+about+Android+Development.;%F0%9F%8C%B1+Currently+Learning+about+Web+Development.;%F0%9F%98%84+Pronouns%3A+He%2FHim+%E2%99%82;%E2%9A%A1+Fun+fact%3A+Shh!+%F0%9F%A4%AB" /></a>
+  <a href="https://github.com/umairshabbir-83"><img src="https://readme-typing-svg.herokuapp.com?font=Auto&color=%23A9B9C1&size=16&center=true&vCenter=true&width=500&lines=%F0%9F%94%AD+Currently+a+Student.;%F0%9F%8C%B1+Currently+Learning+about+Android+Development.;%F0%9F%8C%B1+Currently+Learning+about+Web+Development.;%F0%9F%98%84+Pronouns%3A+He%2FHim+%E2%99%82;%E2%9A%A1+Fun+fact%3A+Shh!+%F0%9F%A4%AB" /></a>
 </p>
 
 ## 🔗 Connect With Me
@@ -58,9 +58,9 @@
   <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-Kotlin-E97A41?logo=Kotlin&logoColor=white" /></a>
   <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-Laravel-FA2E24?logo=Laravel&logoColor=white" /></a>
   <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-Markdown-050505?logo=Markdown&logoColor=white" /></a>
-  <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-MySQL-E9972A?logo=MySQL&logoColor=white" /></a>
+  <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-MySQL-1C7588?logo=MySQL&logoColor=white" /></a>
   <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-PHP-575D86?logo=PHP&logoColor=white" /></a>
-  <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-phpMyAdmin-CECECD?logo=phpMyAdmin&logoColor=white" /></a>
+  <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-phpMyAdmin-FB9D0F?logo=phpMyAdmin&logoColor=white" /></a>
   <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-Python-3672A5?logo=Python&logoColor=white" /></a>
   <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-Visual Studio-9971CC?logo=VisualStudio&logoColor=white" /></a>
   <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-Visual Studio Code-2B91D7?logo=VisualStudioCode&logoColor=white" /></a>
