@@ -55,7 +55,7 @@
   <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-Git-F15435?logo=Git&logoColor=white" /></a>
   <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-HTML5-E75428?logo=HTML5&logoColor=white" /></a>
   <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-Jupyter-F37425?logo=Jupyter&logoColor=white" /></a>
-  <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-Kotlin-E97A41?logo=Kotlin&logoColor=white" /></a>
+  <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-Kotlin-A433E7?logo=Kotlin&logoColor=white" /></a>
   <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-Laravel-FA2E24?logo=Laravel&logoColor=white" /></a>
   <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-Markdown-050505?logo=Markdown&logoColor=white" /></a>
   <a href="https://github.com/umairshabbir-83"><img src="https://img.shields.io/badge/-MySQL-1C7588?logo=MySQL&logoColor=white" /></a>
