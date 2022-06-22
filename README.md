@@ -15,6 +15,7 @@
 <p align="center">
   <a href="https://dev.to/umairshabbir_83"><img src="https://img.shields.io/badge/-UMAIR SHABBIR-040404?logo=DEV.TO&logoColor=white" /></a>
   <a href="https://facebook.com/umairshabbir.83"><img src="https://img.shields.io/badge/-@umairshabbir.83-2077F4?logo=Facebook&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/umairshabbir_83"><img src="https://img.shields.io/badge/-UMAIR SHABBIR-04EA63?logo=HackerRank&logoColor=white" /></a>
   <a href="https://instagram.com/umairshabbir.83"><img src="https://img.shields.io/badge/-@umairshabbir.83-CC4578?logo=Instagram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/umairshabbir-83"><img src="https://img.shields.io/badge/-UMAIR SHABBIR-047CBB?logo=LinkedIn&logoColor=white" /></a>
   <a href="https://twitter.com/umairshabbir_83"><img src="https://img.shields.io/badge/-@umairshabbir_83-04B3fB?logo=Twitter&logoColor=white" /></a>
