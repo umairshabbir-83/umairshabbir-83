@@ -15,21 +15,23 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-        <a href="https://dev.to/umairshabbir_83" target="_blank"><img
+        <a href="https://www.coursera.org/user/88276d10e2648d7473b1dba20942f189"><img
+                        src="https://img.shields.io/badge/-UMAIR SHABBIR-0454D3?logo=Coursera&logoColor=white" /></a>
+        <a href="https://dev.to/umairshabbir_83"><img
                         src="https://img.shields.io/badge/-UMAIR SHABBIR-040404?logo=DEV.TO&logoColor=white" /></a>
-        <a href="https://facebook.com/umairshabbir.83" target="_blank"><img
+        <a href="https://facebook.com/umairshabbir.83"><img
                         src="https://img.shields.io/badge/-@umairshabbir.83-2077F4?logo=Facebook&logoColor=white" /></a>
-        <a href="https://www.freecodecamp.org/umairshabbir-83" target="_blank"><img
+        <a href="https://www.freecodecamp.org/umairshabbir-83"><img
                         src="https://img.shields.io/badge/-UMAIR SHABBIR-0C0C24?logo=freeCodeCamp&logoColor=white" /></a>
-        <a href="https://www.hackerrank.com/umairshabbir_83" target="_blank"><img
+        <a href="https://www.hackerrank.com/umairshabbir_83"><img
                         src="https://img.shields.io/badge/-@umairshabbir_83-04EA63?logo=HackerRank&logoColor=white" /></a>
-        <a href="https://instagram.com/umairshabbir.83" target="_blank"><img
+        <a href="https://instagram.com/umairshabbir.83"><img
                         src="https://img.shields.io/badge/-@umairshabbir.83-CC4578?logo=Instagram&logoColor=white" /></a>
-        <a href="https://linkedin.com/in/umairshabbir-83" target="_blank"><img
+        <a href="https://linkedin.com/in/umairshabbir-83"><img
                         src="https://img.shields.io/badge/-UMAIR SHABBIR-047CBB?logo=LinkedIn&logoColor=white" /></a>
-        <a href="https://snapchat.com/add/umairshabbir_83" target="_blank"><img
+        <a href="https://snapchat.com/add/umairshabbir_83"><img
                         src="https://img.shields.io/badge/-@umairshabbir_83-FBFB05?logo=Snapchat&logoColor=white" /></a>
-        <a href="https://twitter.com/umairshabbir_83" target="_blank"><img
+        <a href="https://twitter.com/umairshabbir_83"><img
                         src="https://img.shields.io/badge/-@umairshabbir_83-04B3fB?logo=Twitter&logoColor=white" /></a>
 </p>
 
