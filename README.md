@@ -114,6 +114,18 @@
 ---
 
 <details>
+        <summary>👉 Latest Articles/Blog Posts on Dev.to 👇</summary>
+
+- [15+ Free Websites and Tools That Seems Illegal to
+  Know!](https://dev.to/umairshabbir_83/15-free-websites-and-tools-that-seems-illegal-to-know-3kpp)
+- [k-nearest neighbors algorithm (k-NN)](https://dev.to/umairshabbir_83/k-nearest-neighbors-algorithm-k-nn-46ml)
+- [2021: Year in Review](https://dev.to/umairshabbir_83/2021-year-in-review-435p)
+
+</details>
+
+---
+
+<details>
         <summary>Watch 👀 My Contribution Graph 📊 Eaten by Snake 🐍</summary>
         <p align="center">
                 <a href="https://github.com/umairshabbir-83"><img
