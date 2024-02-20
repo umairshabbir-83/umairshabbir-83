@@ -1,27 +1,33 @@
-name: Snake 🐍 GIF
+name: Contribution Snack 🐍
+
 on:
+  push:
+    branches:
+      - master
+
   schedule:
     - cron: "0 */24 * * *"
+
   workflow_dispatch:
+
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Generate Contribution Snack 🐍
+        uses: Platane/snk/svg-only@v3
         with:
-          gif_out_path: dist/github-contribution-grid-snake.gif
           github_user_name: umairshabbir-83
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - run: git status
-      - name: Make GIF
-        uses: ad-m/github-push-action@master
-        with:
-          branch: master
-          force: true
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+
+      - name: Push Contribution Snack 🐍
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           build_dir: dist
           target_branch: GIF
