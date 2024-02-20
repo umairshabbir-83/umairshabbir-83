@@ -141,10 +141,10 @@
 ---
 
 <details>
-        <summary>Watch 👀 My Contribution Graph 📊 Eaten by Snake 🐍</summary>
+        <summary>Watch 👀 My Contributions Eaten by Snake 🐍</summary>
         <p align="center">
                 <a href="https://github.com/umairshabbir-83"><img
-                                src="https://github.com/umairshabbir-83/umairshabbir-83/blob/GIF/github-contribution-grid-snake.svg" /></a>
+                                src="https://github.com/umairshabbir-83/umairshabbir-83/blob/GIF/github-contribution-grid-snake-dark.svg" /></a>
         </p>
 </details>
 
