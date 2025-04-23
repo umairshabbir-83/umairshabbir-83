@@ -1,12 +1,17 @@
 name: WakaTime
+
 on:
     schedule:
-        - cron: "0 */24 * * *"
+        - cron: "0 0 * * *"
+
     workflow_dispatch:
+
 jobs:
     update-readme:
         name: WakaTime
         runs-on: ubuntu-latest
+        timeout-minutes: 7
+
         steps:
             - uses: athul/waka-readme@master
               with:
@@ -14,7 +19,7 @@ jobs:
                   COMMIT_MESSAGE: 🚀 DevMetrics Updated ✨
                   SHOW_MASKED_TIME: true
                   SHOW_TIME: true
-                  SHOW_TOTAL: true
                   SHOW_TITLE: true
+                  SHOW_TOTAL: true
                   TIME_RANGE: last_7_days
                   WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}

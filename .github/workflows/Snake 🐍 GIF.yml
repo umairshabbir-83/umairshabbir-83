@@ -6,7 +6,7 @@ on:
             - master
 
     schedule:
-        - cron: "0 */24 * * *"
+        - cron: "0 0 * * *"
 
     workflow_dispatch:
 
@@ -15,7 +15,7 @@ jobs:
         permissions:
             contents: write
         runs-on: ubuntu-latest
-        timeout-minutes: 5
+        timeout-minutes: 7
 
         steps:
             - name: Generate Contribution Snack 🐍
@@ -28,8 +28,8 @@ jobs:
 
             - name: Push Contribution Snack 🐍
               uses: crazy-max/ghaction-github-pages@v3.1.0
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
               with:
                   build_dir: dist
                   target_branch: GIF
-              env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
